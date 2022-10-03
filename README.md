@@ -1,4 +1,4 @@
- <h1>SPRING BOOT FEITO COM DEPENDENCIAS MAVEN E O FRONT END USANDO AJAX E BOOTSTRAP</h1>
+ <h1>SPRING BOOT REST API FEITO COM DEPENDENCIAS MAVEN E O FRONT END USANDO AJAX E BOOTSTRAP</h1>
      <h2>Esse sistema salva os dados no banco de dados e trabalha de forma interativa com as ENDPOINTS geradas do backend em Java</h2>
 
  <p>Usei maven para buildar o projeto e em baixo segue algumas fotos modelo do front end usando o BOOTSTRAP 5</p>
