@@ -35,7 +35,7 @@ public class GreetingsController {
      * @param name the name to greet
      * @return greeting text
      */
-    @RequestMapping(value = "/mostrarnome/{name}", method = RequestMethod.GET)
+    @RequestMapping(value = "{name}", method = RequestMethod.GET)
     @ResponseStatus(HttpStatus.OK)
     public String greetingText(@PathVariable String name) {
         return "Está funcionando, " + name + "!";
